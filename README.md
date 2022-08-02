@@ -47,7 +47,8 @@ following lesson.
 - `Bicycle()` is the **constructor** of our `Bicycle` class. We will talk more about constructors later, but know that
 this method helps instantiate the new instance of the class `Bicycle`.
 
-Once that `johnsBike` has been defined, we can play with the property values in the `Bicycle` class:
+Once `johnsBike` has been defined, we can play with the property values in the `Bicycle` class to be more specific to
+John's actual bike:
 
 ```java
 Bicycle johnsBike = new Bicycle();
