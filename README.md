@@ -56,6 +56,10 @@ johnsBike.color = "blue";
 johnsBike.height = 36;
 ```
 
+The syntax we see above is called "dot notation" and it allows us to access the object's properties.
+To further explain dot notation, consider the line `johnsBike.color = "blue";`. We are accessing
+the property `color` of the object `johnsBike` and trying to assign it to the word `blue`.
+
 We can also create another object of type `Bicycle` to represent Claire's bike:
 
 ```java
